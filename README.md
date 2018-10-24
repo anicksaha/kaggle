@@ -1,4 +1,4 @@
-## _Life, the Universe and everything!_
+## Life, the Universe and everything!
 
 ### Some good reads: 
 
