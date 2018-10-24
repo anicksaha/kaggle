@@ -1,5 +1,3 @@
-## ML!
-
 ### Some good reads/links: 
 
 - https://github.com/mjbahmani/10-steps-to-become-a-data-scientist
