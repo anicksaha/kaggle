@@ -1,6 +1,9 @@
-## Life, the Universe and everything!
+## ML!
 
-### Some good reads: 
+### Some good reads/links: 
+
+- https://github.com/mjbahmani/10-steps-to-become-a-data-scientist
+- https://www.kaggle.com/mjbahmani/kernels
 
 ### Problems: 
 
