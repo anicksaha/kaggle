@@ -5,4 +5,4 @@ Profile: [Anick Saha](https://www.kaggle.com/anicksaha)
 ### 1. Titanic:
 
 - Problem link: [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic/overview)
-- Details: [Titanic mark_down]()
+- Markdown link [here](https://github.com/anicksaha/kaggle/blob/master/Titanic/Titanic.md).
