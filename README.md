@@ -2,6 +2,7 @@
 
 - https://github.com/mjbahmani/10-steps-to-become-a-data-scientist
 - https://www.kaggle.com/mjbahmani/kernels
+- https://www.kaggle.com/mjbahmani/data-science-toolbox
 
 #### Problems: 
 
