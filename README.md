@@ -13,5 +13,5 @@
 
 #### Notes: 
 
-- Kaggle profile: [Anick Saha](https://www.kaggle.com/anicksaha)
+- Kaggle profile: [@anisaha](https://www.kaggle.com/anisaha)
 
