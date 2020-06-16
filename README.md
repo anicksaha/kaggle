@@ -13,5 +13,6 @@
 
 #### Notes: 
 
-- Kaggle profile: [@anisaha](https://www.kaggle.com/anisaha)
+- Kaggle profile: [@anisaha](https://www.kaggle.com/anisaha) 
+                  [@vermashr](https://www.kaggle.com/vermashr)
 
